@@ -1,3 +1,6 @@
+<img width="818" height="297" alt="image" src="https://github.com/user-attachments/assets/8c2959f0-5a50-4ee1-90fe-5cb56012052e" />
+
+
 # SkyLight-VM-Patcher 
 SkyLight-VM-Patcher is a software-based patcher designed for macOS virtual machines (running on VMware or VirtualBox) to force-enable advanced graphical effects that are normally disabled due to the lack of hardware graphics acceleration (QE/CI).
 
